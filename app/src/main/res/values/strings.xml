@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">aula</string>
+    <string name="organizar_minhas_tarefas">Organizar minhas tarefas</string>
+    <string name="minhas_tarefas">Minhas Tarefas</string>
+    <string name="enviar">Enviar</string>
+    <string name="adicionar_tarefa">Adicionar Tarefa</string>
+</resources>
