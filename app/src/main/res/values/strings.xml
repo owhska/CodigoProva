@@ -4,4 +4,6 @@
     <string name="minhas_tarefas">Minhas Tarefas</string>
     <string name="enviar">Enviar</string>
     <string name="adicionar_tarefa">Adicionar Tarefa</string>
+    <string name="titulo_tarefa">Titulo Tarefa</string>
+    <string name="descricao_tarefa">Descricao Tarefa</string>
 </resources>
